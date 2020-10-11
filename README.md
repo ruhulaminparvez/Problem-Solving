@@ -1,2 +1,2 @@
-# URI Problem Solutions
+# Problem Solutions
 *This repo will store my solving problems*
