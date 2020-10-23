@@ -1,2 +1,2 @@
-# Problem Solutions 🔓
+# Problem Solutions ✔
 *This repo will store my solved problems* 🎈💣
