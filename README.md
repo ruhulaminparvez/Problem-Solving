@@ -2,14 +2,18 @@
 This repo will store my solved problems 🎈💣
 
 <br>
+<br>
+<br>
 
 <h1 align="center">
-<img src="Img/hackerrank.png" width="220"/>
+<img src="Img/HackerRank.png" width="220"/>
 </h1>
 
 
 - [x] [HackerRank Solutions](Hacker-Rank_Solutions)
 
+<br>
+<br>
 <br>
 
 <h1 align="center">
