@@ -21,7 +21,7 @@ This repo will store my solved problems 🎈💣
 </h1>
 
 
-- [x] [BeeCrowd/Uri Online Judge Solutions](Uri-Online-Judge_Solutions)
+- [x] [BeeCrowd / Uri Online Judge Solutions](Uri-Online-Judge_Solutions)
 
 
 <br>
