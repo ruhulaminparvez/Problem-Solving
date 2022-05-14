@@ -6,7 +6,7 @@ This repo will store my solved problems 🎈💣
 <br>
 
 <h1 align="center">
-<img src="Img/HackerRank.png" width="220"/>
+<img src="Img/hacker-rank.png" width="220"/>
 </h1>
 
 
