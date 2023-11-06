@@ -1,15 +1,11 @@
 var isPalindrome = function (x) {
-    let reverse = 0;
-    while (x > 0) {
-        reverse = reverse * 10 + x % 10;
-        console.log("reverse",reverse);
-        x = Math.floor(x / 10);
-        console.log("x",x);
+    let reversed = 0;
+    let y = x;
+    while (y > 0) {
+        reversed = (reversed * 10) + (y % 10);
+        y = Math.floor(y / 10);
     }
-    console.log("reverse",reverse, "x",x);
-    return reverse === x;
+    return reversed === x;
 };
 
-
-const takeInput = 121;
-console.log(isPalindrome(takeInput));
+console.log(isPalindrome(-121));
