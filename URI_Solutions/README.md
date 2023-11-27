@@ -1,4 +1,4 @@
-## Beginner URI Problem
+## URI Problem Solutions
 
 ### Table of content
 

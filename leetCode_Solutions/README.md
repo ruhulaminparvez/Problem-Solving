@@ -1,4 +1,4 @@
-## Easy 
+## Leet Code Solutions
 
 ### Table of content
 
